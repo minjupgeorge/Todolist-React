@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "task": "Take Passport",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Pack Medicines",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Pack Dresses",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Take Credit Card",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Take Powerbank",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Keep Driving License",
+    "complete": true
+  }]
+ 
